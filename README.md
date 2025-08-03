@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Marat Murzagaliev<br/>
+## Hi there 👋 I'm Marat <br/>
 
 🎯 Frontend Developer with 5+ years of experience in building scalable web applications<br/>
 🔧 Tech stack: React, TypeScript, Redux Toolkit, Next.js, Vite, Webpack, Tailwind<br/>
