@@ -4,7 +4,7 @@
 🔧 Tech stack: React, TypeScript, Redux Toolkit, Next.js, Vite, Webpack, Tailwind<br/>
 📦 Experience with FSD architecture, UI-kit development, PlayWright testing, and CI/CD integration<br/>
 📊 Built analytics dashboards, drag-and-drop routing tools, and document constructors for B2B<br/>
-🌍 Languages: Russian (native), English (C1), Chinese (B2)<br/>
+🌍 Languages: Russian , English, Chinese<br/>
 🚀 Open to remote, relocation, or hybrid roles — ready for the next big challenge<br/>
 📍 Currently based in Moscow<br/>  
 📫 Reach me in Telegram: [@martgarcon](https://t.me/martgarcon)<br/>
