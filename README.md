@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Marat <br/>
 
-🎯 Frontend Developer with 5+ years of experience in building scalable web applications<br/>
+🎯 Frontend Developer with 4+ years of experience in building scalable web applications<br/>
 🔧 Tech stack: React, TypeScript, Redux Toolkit, Next.js, Vite, Webpack, Tailwind<br/>
 📦 Experience with FSD architecture, UI-kit development, PlayWright testing, and CI/CD integration<br/>
 📊 Built analytics dashboards, drag-and-drop routing tools, and document constructors for B2B<br/>
